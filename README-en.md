@@ -23,7 +23,7 @@ As part of T-Brain’s projects on social value, KVQA dataset, a Korean version 
 Currently, it consists of 30,000 sets of images and questions, and 300,000 answers, but by the end of this year, we will increase the dataset size to 100,000 sets of images and questions, and 1 million answers.
 This dataset can be used only for educational and research purposes. Please refer to the attached license for more details. We hope that the KVQA dataset can simultaneously provide opportunities for the development of Korean VQA technology as well as creation of meaningful social value in Korean society.
 
-You can download KVQA dataset via [this link](https://drive.google.com/drive/folders/1IQazOJtNTBql51woveN4zb6NplxH7eVl?usp=sharing).
+You can download KVQA dataset via [HuggingFace hub](https://huggingface.co/datasets/skt/KVQA).
 
 ![Examples of KVQA](docs/assets/img/kvqa_examples.png)
 
