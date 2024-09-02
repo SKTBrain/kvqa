@@ -23,7 +23,7 @@ KVQA 데이터셋은 T-Brain이 진행하는 사회적 가치 추구를 위한 �
 현재는 총 3만 건의 이미지와 질문, 그리고 30만 건의 답변으로 구성되어 있으나, 올해 말까지 10만 건의 이미지와 질문, 그리고 100만 건의 답변으로 증대할 예정입니다.
 본 데이터셋은 교육 및 연구목적으로 사용이 가능하며, 자세한 내용은 첨부된 라이선스를 참조해주시기 바랍니다. KVQA 데이터셋을 통해 한국형 시각적 질의응답 기술 발전과 사회적 가치를 동시에 추구할 수 있기를 바랍니다.
 
-데이터셋은 [이 링크](https://drive.google.com/drive/folders/1IQazOJtNTBql51woveN4zb6NplxH7eVl?usp=sharing)를 통해 다운받으실 수 있습니다.
+데이터셋은 [HuggingFace hub](https://huggingface.co/datasets/skt/KVQA)를 통해 다운받으실 수 있습니다.
 
 ![Examples of KVQA](docs/assets/img/kvqa_examples.png)
 
